@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+#root {
+  margin: 0;
+  width: 0;
+  height: 0;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+.button {
+  display: block;
+  width: 120px;
+  height: 40px;
+  margin: 20px auto;
+}
+.btn {
+  width: 140px;
+  height: 17px;
+  display: block;
+  margin: 10px;
+  line-height: 9px;
+}
+h3 {
+  margin-top: 20px;
+  text-align: center;
+}
+.degree {
+  padding: 10px;
+  width: 100vw;
+}
